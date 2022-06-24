@@ -1,2 +1,4 @@
-int =5
-print(int)
+a =5
+b = 6
+
+print(a * b)
